@@ -1,0 +1,16 @@
+C:\Users\Ermeson\Vitor\NET\AppCadastro\obj\Debug\net5.0\AppCadastro.csproj.AssemblyReference.cache
+C:\Users\Ermeson\Vitor\NET\AppCadastro\obj\Debug\net5.0\AppCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ermeson\Vitor\NET\AppCadastro\obj\Debug\net5.0\AppCadastro.AssemblyInfoInputs.cache
+C:\Users\Ermeson\Vitor\NET\AppCadastro\obj\Debug\net5.0\AppCadastro.AssemblyInfo.cs
+C:\Users\Ermeson\Vitor\NET\AppCadastro\obj\Debug\net5.0\AppCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Ermeson\Vitor\NET\AppCadastro\bin\Debug\net5.0\AppCadastro.exe
+C:\Users\Ermeson\Vitor\NET\AppCadastro\bin\Debug\net5.0\AppCadastro.deps.json
+C:\Users\Ermeson\Vitor\NET\AppCadastro\bin\Debug\net5.0\AppCadastro.runtimeconfig.json
+C:\Users\Ermeson\Vitor\NET\AppCadastro\bin\Debug\net5.0\AppCadastro.runtimeconfig.dev.json
+C:\Users\Ermeson\Vitor\NET\AppCadastro\bin\Debug\net5.0\AppCadastro.dll
+C:\Users\Ermeson\Vitor\NET\AppCadastro\bin\Debug\net5.0\ref\AppCadastro.dll
+C:\Users\Ermeson\Vitor\NET\AppCadastro\bin\Debug\net5.0\AppCadastro.pdb
+C:\Users\Ermeson\Vitor\NET\AppCadastro\obj\Debug\net5.0\AppCadastro.dll
+C:\Users\Ermeson\Vitor\NET\AppCadastro\obj\Debug\net5.0\ref\AppCadastro.dll
+C:\Users\Ermeson\Vitor\NET\AppCadastro\obj\Debug\net5.0\AppCadastro.pdb
+C:\Users\Ermeson\Vitor\NET\AppCadastro\obj\Debug\net5.0\AppCadastro.genruntimeconfig.cache
